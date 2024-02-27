@@ -27,5 +27,5 @@ These tools have provided me with the capabilities to effectively manage and ana
 
 ### References 
 
-https://www.youtube.com/watch?v=IaA9YNlg5hM
+https://www.youtube.com/watch?v=IaA9YNlg5hM \
 https://www.youtube.com/watch?v=nW0ffUW2vw4
